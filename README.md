@@ -1,10 +1,10 @@
 # AI Assistence – Power BI Custom Visual (BI Assistant)
 
-An AI-powered conversational assistant built as a custom visual for Microsoft Power BI. PRISM AI helps users interact with their Power BI data using natural-language questions and receive AI-generated answers and visual insights.
+An AI-powered conversational assistant built as a custom visual for Microsoft Power BI. AI helps users interact with their Power BI data using natural-language questions and receive AI-generated answers and visual insights.
 
 ## 1. About the Project
 
-PRISM AI (BI Assistant) is a Power BI custom visual designed to make data exploration easier and more interactive.
+AI (BI Assistant) is a Power BI custom visual designed to make data exploration easier and more interactive.
 
 Instead of manually navigating reports and creating queries, users can interact with the assistant through a chat interface and ask questions about their Power BI semantic models.
 
