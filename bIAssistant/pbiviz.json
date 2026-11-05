@@ -1,0 +1,28 @@
+
+
+{
+  "visual": {
+    "name": "bIAssistant",
+    "displayName": "BIAssistant",
+    "guid": "bIAssistant7964B4C3FDDC4A97AEA95DDFBC14DDD1",
+    "visualClassName": "Visual",
+    "version": "1.0.0.0",
+    "description": "AI-powered assistant for analyzing and interacting with Power BI reports.",
+    "supportUrl": "https://bi-assistance-chat-bot.onrender.com/",
+    "gitHubUrl": ""
+  },
+  "apiVersion": "5.11.1",
+  "author": {
+    "name": "BI Assistant Team",
+    "email": "vinod@vinodkumar9247.onmicrosoft.com"
+  },
+  "assets": {
+    "icon": "assets/icon.png"
+  },
+  "externalJS": null,
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "dependencies": null,
+  "stringResources": [],
+  "version": "1.0.0.0"
+}
